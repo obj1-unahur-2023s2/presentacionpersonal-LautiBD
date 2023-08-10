@@ -27,12 +27,13 @@ object programacionConObjetos {
 
 ### Presentacion Personal
 
-Me llamo ...
+Me llamo Lautaro Diaz y tengo 21 años
 
-Me gusta ...
+Me gusta el fútbol, soy hincha de San Lorenzo y de Messi
 
-Me dedico a / Trabajo de ...
+Me dedico a / Trabajo de  CM y desarrollador web
 
 Les dejo una imagen mía 
 
-![subir archivo de imagen](imagen.jpg)
+![yfaltaElOctavoEnAgosto](https://github.com/obj1-unahur-2023s2/presentacionpersonal-LautiBD/assets/95301612/a256d17a-5b63-47f2-aa61-fefa3a165865)
+
